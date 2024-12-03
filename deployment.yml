@@ -26,4 +26,4 @@ spec:
     spec:
       containers:
       - name: h-con
-        image: onineraz/hnginx:latest
+        image: onineraz/ipnginx:latest
